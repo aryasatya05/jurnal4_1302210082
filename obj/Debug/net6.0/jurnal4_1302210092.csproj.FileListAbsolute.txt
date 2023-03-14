@@ -1,0 +1,15 @@
+D:\jurnal4_1302210092\obj\Debug\net6.0\jurnal4_1302210092.csproj.AssemblyReference.cache
+D:\jurnal4_1302210092\obj\Debug\net6.0\jurnal4_1302210092.GeneratedMSBuildEditorConfig.editorconfig
+D:\jurnal4_1302210092\obj\Debug\net6.0\jurnal4_1302210092.AssemblyInfoInputs.cache
+D:\jurnal4_1302210092\obj\Debug\net6.0\jurnal4_1302210092.AssemblyInfo.cs
+D:\jurnal4_1302210092\obj\Debug\net6.0\jurnal4_1302210092.csproj.CoreCompileInputs.cache
+D:\jurnal4_1302210092\bin\Debug\net6.0\jurnal4_1302210092.exe
+D:\jurnal4_1302210092\bin\Debug\net6.0\jurnal4_1302210092.deps.json
+D:\jurnal4_1302210092\bin\Debug\net6.0\jurnal4_1302210092.runtimeconfig.json
+D:\jurnal4_1302210092\bin\Debug\net6.0\jurnal4_1302210092.dll
+D:\jurnal4_1302210092\bin\Debug\net6.0\jurnal4_1302210092.pdb
+D:\jurnal4_1302210092\obj\Debug\net6.0\jurnal4_1302210092.dll
+D:\jurnal4_1302210092\obj\Debug\net6.0\refint\jurnal4_1302210092.dll
+D:\jurnal4_1302210092\obj\Debug\net6.0\jurnal4_1302210092.pdb
+D:\jurnal4_1302210092\obj\Debug\net6.0\jurnal4_1302210092.genruntimeconfig.cache
+D:\jurnal4_1302210092\obj\Debug\net6.0\ref\jurnal4_1302210092.dll
